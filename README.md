@@ -33,3 +33,39 @@ Matplotlib
 Scikit-learn
 
 Jupyter Notebook
+
+## Methodology
+
+### 1. Data Loading
+
+Imported dataset using Pandas
+
+Explored basic dataset structure
+
+### 2. Data Preparation
+
+Selected input feature (X)
+
+Selected target variable (y)
+
+Reshaped data for model training
+
+### 3. Model Training
+
+Applied Simple Linear Regression
+
+Trained model using 53 data samples
+
+### 4. Visualization
+
+Plotted regression line
+
+Visual comparison between real and predicted data
+
+## Gradio Interface
+
+To make the model easier to test, I created a simple web interface using Gradio.
+
+The interface allows users to input a value and get a predicted gold price directly from the trained Simple Linear Regression model.
+
+This was added as a learning step to understand how machine learning models can be interacted with through a user interface.
