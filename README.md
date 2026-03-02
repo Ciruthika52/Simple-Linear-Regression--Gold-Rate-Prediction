@@ -69,3 +69,10 @@ To make the model easier to test, I created a simple web interface using Gradio.
 The interface allows users to input a value and get a predicted gold price directly from the trained Simple Linear Regression model.
 
 This was added as a learning step to understand how machine learning models can be interacted with through a user interface.
+
+## 🖥️ Demo
+
+### 📸 Gradio Interface
+Model Interface.png
+
+The interface allows users to input values and get predicted gold prices using a Simple Linear Regression model trained on 53 data samples.
