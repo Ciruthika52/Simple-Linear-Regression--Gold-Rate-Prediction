@@ -73,6 +73,6 @@ This was added as a learning step to understand how machine learning models can 
 ## 🖥️ Demo
 
 ### 📸 Gradio Interface
-![Gradio App Screenshot](Model Interface.png)
+![Gradio App Screenshot](/Model Interface.png)
 
 The interface allows users to input values and get predicted gold prices using a Simple Linear Regression model trained on 53 data samples.
