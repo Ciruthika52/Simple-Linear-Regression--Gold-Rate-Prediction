@@ -3,6 +3,7 @@
 This project demonstrates a basic machine learning workflow using a Simple Linear Regression model to predict gold prices based on historical data.
 
 The goal of this project is learning and practice — understanding how regression works, how models are trained, and how predictions are evaluated.
+Dataset has taken from : Data Science With Keerthi Youtube Channel
 
 ## Project Description
 
